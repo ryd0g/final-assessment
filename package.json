@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "dependencies": {
     "ryan-lee-stringlib": "^3.0.0",
     "ryd0g-date-lib": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
   }
 }
