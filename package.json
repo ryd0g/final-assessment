@@ -22,6 +22,7 @@
     "ryd0g-date-lib": "^2.0.0"
   },
   "devDependencies": {
+    "eslint": "^7.21.0",
     "jest": "^26.6.3"
   }
 }
